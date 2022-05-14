@@ -1,0 +1,12 @@
+truffle compile
+truffle migrate
+flutter run -d web-server --web-port 5555
+
+http://localhost:5555/
+
+Land Inspector key: 6b86cddfedbec68ed2a1c7e14b993840a0848595ba5787aec9e8a38b18f0d96a
+For user: 3ed4aff1a8ff8e28df3cd307112f9166886edcc85a27136908e3b1687b111f89
+
+
+node js
+npm
